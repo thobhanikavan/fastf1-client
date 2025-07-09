@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fastf1-client/static/css/main.6d76fbdd.css",
+    "main.js": "/fastf1-client/static/js/main.8d3d695c.js",
+    "static/js/453.9568c42e.chunk.js": "/fastf1-client/static/js/453.9568c42e.chunk.js",
+    "index.html": "/fastf1-client/index.html",
+    "main.6d76fbdd.css.map": "/fastf1-client/static/css/main.6d76fbdd.css.map",
+    "main.8d3d695c.js.map": "/fastf1-client/static/js/main.8d3d695c.js.map",
+    "453.9568c42e.chunk.js.map": "/fastf1-client/static/js/453.9568c42e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d76fbdd.css",
+    "static/js/main.8d3d695c.js"
+  ]
+}
